@@ -1,0 +1,14 @@
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\bin\Debug\net7.0\custom_program.exe
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\bin\Debug\net7.0\custom_program.deps.json
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\bin\Debug\net7.0\custom_program.runtimeconfig.json
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\bin\Debug\net7.0\custom_program.dll
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\bin\Debug\net7.0\custom_program.pdb
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.AssemblyInfoInputs.cache
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.AssemblyInfo.cs
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.csproj.CoreCompileInputs.cache
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.dll
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\refint\custom_program.dll
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.pdb
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\custom_program.genruntimeconfig.cache
+C:\Users\mh\OneDrive\Desktop\OOP\custom program\obj\Debug\net7.0\ref\custom_program.dll
