@@ -1,1 +1,1 @@
-A 2D catcher game created using C# and the SplashKit graphics library. The objective of the game is to catch falling food items to increase the player's score. Catching falling bugs will cause damage to the player. The game is over when the player runs out of lives. 
+
